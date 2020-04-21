@@ -1,4 +1,4 @@
-# firbase_php_notification
+# Firbase PHP Notification
 Sending firbase notification to android/ios device using PHP
 
 Installation:
